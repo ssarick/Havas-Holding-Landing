@@ -1,0 +1,86 @@
+{
+    "footerAboutWidget": {
+        "logoSrc": "/images/logo/header-logo.svg",
+        "telephone": "+998 (71) 205 95 95",
+        "email": "demo@example.com",
+        "fbUrl": "https://www.facebook.com/",
+        "twitterUrl": "https://twitter.com/",
+        "instagramUrl": "https://www.instagram.com/"
+    },
+    "footerLinkTitleOne": "Services",
+    "navListOne": [
+        {
+            "navTitle": "Marketing",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "SEO/SEM",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Development",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "UX Design",
+            "navUrl": "/" 
+        }
+    ],
+    "footerLinkTitleTwo": "Products",
+    "navListTwo": [
+        {
+            "navTitle": "Elementor Guru",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "WooLentor Pro",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Plugins",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Page Builder",
+            "navUrl": "/" 
+        }
+    ],
+    "footerLinkTitleThree": "About",
+    "navListThree": [
+        {
+            "navTitle": "Features",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Our Partners",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Affiliate Program",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Pricing",
+            "navUrl": "/" 
+        }
+    ],
+    "footerLinkTitleFour": "Contact",
+    "navListFour": [
+        {
+            "navTitle": "Support Ticket",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Help Desk",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "Live Chat",
+            "navUrl": "/" 
+        },
+        {
+            "navTitle": "FAQs",
+            "navUrl": "/" 
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "/images/portfolio/1.png",
+        "title": "Digital marketing",
+        "category": "development"
+    },
+    {
+        "id": 2,
+        "imgSrc": "/images/portfolio/2.png",
+        "title": "App Development",
+        "category": "design"
+    },
+    {
+        "id": 3,
+        "imgSrc": "/images/portfolio/3.png",
+        "title": "Graphics Design",
+        "category": "marketing"
+    },
+    {
+        "id": 4,
+        "imgSrc": "/images/portfolio/4.png",
+        "title": "Web Development",
+        "category": "development"
+    },
+    {
+        "id": 5,
+        "imgSrc": "/images/portfolio/5.png",
+        "title": "Construction Project",
+        "category": "design"
+    },
+    {
+        "id": 6,
+        "imgSrc": "/images/portfolio/6.png",
+        "title": "Illustration Design",
+        "category": "marketing"
+    },
+    {
+        "id": 7,
+        "imgSrc": "/images/portfolio/7.png",
+        "title": "Illustration Design",
+        "category": "marketing"
+    },
+    {
+        "id": 8,
+        "imgSrc": "/images/portfolio/8.png",
+        "title": "Illustration Design",
+        "category": "marketing"
+    },
+    {
+        "id": 9,
+        "imgSrc": "/images/portfolio/9.png",
+        "title": "Illustration Design",
+        "category": "marketing"
+    },
+    {
+        "id": 10,
+        "imgSrc": "/images/portfolio/10.png",
+        "title": "Illustration Design",
+        "category": "marketing"
+    }
+]
