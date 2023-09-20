@@ -47,10 +47,10 @@
                 <div class="col-lg-6" data-aos="fade-up">
                     <div class="about-image-area about-two about-shape-animation right-0 mr-0">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-6.jpg" alt="image">
+                            <img src="/images/about/about-5.jpg" alt="image">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-5.JPG" alt="image">
+                            <img src="/images/about/about-6.jpg" alt="image">
                         </div>
                         <!-- Animation Shape Start -->
                         <ShapeWithAnimation addClassName="shape-1" data-depth="1" imgSrc="/images/shape-animation/video-shape-1.png" />

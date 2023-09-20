@@ -1,0 +1,1 @@
+import{f as t,h as n,o as s,e as r,j as a,E as c}from"./entry.82e2d082.js";const l={};function _(e,f){const o=n("Nuxt");return s(),r("div",null,[a(o),c(e.$slots,"default")])}const u=t(l,[["render",_]]);export{u as default};
