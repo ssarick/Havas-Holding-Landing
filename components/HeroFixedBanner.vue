@@ -5,11 +5,12 @@
                 <div class="row row-cols-lg-1 row-cols-1">
                     <div class="col align-self-center">
                         <div class="intro-content">
-                            <h3 class="title">Партнерство во имя роста и достижения целей</h3>
-                            <div class="desc">
-                                <p>Havas Holding — международная холдинговая компания, ведущая деятельность в различных отраслях национальной экономики Узбекистана. Холдинг объединяет несколько крупных компаний в таких сферах, как ритейл, девелопмент, сельское хозяйство, FMCG.</p>
-                            </div>
-                            <div style="margin-top: 80px">
+<!--                            <h3 class="title">Havas Holding</h3>-->
+                            <img src="/images/logo/header-logo.svg" style="transform: scale(2.5); padding-left: 70px;" alt="logo">
+<!--                            <div class="desc">-->
+<!--                                <p>Международная холдинговая компания, ведущая деятельность в различных отраслях национальной экономики Узбекистана. Холдинг объединяет несколько крупных компаний в таких сферах, как ритейл, девелопмент, сельское хозяйство, FMCG.</p>-->
+<!--                            </div>-->
+                            <div style="margin-top: 250px;">
                               <div class="container">
                               <div class="row">
                                 <div class="col-lg-12 mx-auto">
@@ -29,7 +30,7 @@
                               </div>
                             </div>
                             </div>
-                          <!--                            <NuxtLink to="/about" class="btn btn-primary btn-hover-secondary">Подробнее</NuxtLink>-->
+<!--                            <NuxtLink to="#about" class="btn btn-primary btn-hover-secondary">Подробнее</NuxtLink>-->
                         </div>
                     </div>
                 </div>

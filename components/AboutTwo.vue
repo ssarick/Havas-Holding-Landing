@@ -15,7 +15,7 @@
                         <div class="row">
                             <div class="col-md-12 col-sm-12 col-12 mt-30" data-aos="fade-up">
                                 <div class="about-funfact">
-                                    <div class="number"><span class="counter">О нас в цифрах</span></div>
+                                    <div class="number"><span class="counter">О нас</span></div>
 <!--                                    <h6 class="text">Havas Holding</h6>-->
                                     <p class="text mt-4"><span style="font-weight: bold">Havas Holding </span> - динамично развивающаяся группа компаний, стремящаяся внедрять новые подходы к ведению бизнеса, быть лидером во всех сферах деятельности и активно наращивать международное присутствие.
                                       <br>
@@ -47,10 +47,10 @@
                 <div class="col-lg-6" data-aos="fade-up">
                     <div class="about-image-area about-two about-shape-animation right-0 mr-0">
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-1.jpg" alt="image">
+                            <img src="/images/about/about-6.jpg" alt="image">
                         </div>
                         <div class="about-image js-tilt">
-                            <img src="/images/about/about-2.jpg" alt="image">
+                            <img src="/images/about/about-5.JPG" alt="image">
                         </div>
                         <!-- Animation Shape Start -->
                         <ShapeWithAnimation addClassName="shape-1" data-depth="1" imgSrc="/images/shape-animation/video-shape-1.png" />
@@ -62,4 +62,5 @@
     </div>
 </template>
 <script setup lang="ts">
+import ShapeWithAnimation from "~/components/ShapeWithAnimation.vue";
 </script>

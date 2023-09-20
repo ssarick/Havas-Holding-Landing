@@ -5,7 +5,7 @@
                 <div class="row justify-content-between align-items-center">
 
                     <!-- Header Logo Start -->
-                    <div class="col-xl-2 col-auto order-0">
+                    <div v-if="isOpened" class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
                             <NuxtLink to="/">
                                 <img class="dark-logo" src="/images/logo/header-logo.svg" alt="Agency Logo">
@@ -16,7 +16,7 @@
                     <!-- Header Logo End -->
 
                     <!-- Header Main Menu Start -->
-                    <div class="col-auto col-xl d-flex align-items-center justify-content-end order-2 order-xl-1">
+                    <div class="col-auto col-xl d-flex align-items-center order-2 order-xl-1" :class="!isOpened ? 'justify-content-center' : 'justify-content-end'">
                         <div class="menu-column-area d-none d-xl-block position-static">
                             <Navigation />
                         </div>
@@ -63,6 +63,7 @@
         data() {
             return {
                 isSticky: false,
+                isOpened: false
             }
         },
 
@@ -70,6 +71,7 @@
             window.addEventListener('scroll', () => {
                 let scrollPos = window.scrollY
                 this.isSticky = scrollPos >= 200;
+                this.isOpened = scrollPos >= 200;
             })
         },
 

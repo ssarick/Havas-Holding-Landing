@@ -11,7 +11,7 @@
 <!--                <button v-for="(filter, index) in categories" :key="index" @click="filterHandler(filter)" :class="{ 'mixitup-control-active': selectedCat === filter }"><span class="filter-text">{{ filter }}</span></button>-->
 <!--            </div>-->
 
-            <div class="row row-cols-lg-5 row-cols-md-5 row-cols-sm-3 row-cols-2 g-0 box">
+            <div class="row row-cols-lg-4 row-cols-md-4 row-cols-sm-3 row-cols-2 g-0 box">
                 <div class="col portfolio-item" :class="portfolio.category" v-for="(portfolio, index) in portfolios" :key="index">
                     <div v-if="selectedCat === portfolio.category || selectedCat === 'all'" class="single-portfolio">
                         <div class="thumbnail">
