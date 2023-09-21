@@ -180,6 +180,18 @@
 
 .footer-logo{
     margin-bottom: 30px;
+
+    @media #{$extra-small-mobile}{
+        display: none;
+    }
+}
+
+.footer-padding{
+    padding-bottom: 50px;
+
+    @media #{$extra-small-mobile}{
+        padding-bottom: 20px;
+    }
 }
 
 .footer-widget-title {

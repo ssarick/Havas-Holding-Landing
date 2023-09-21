@@ -2,7 +2,7 @@
     <div class="footer-section" :style="{backgroundColor: '#030e22'}">
         <div class="container">
             <!-- Footer Top Widgets Start -->
-            <div class="row pb-5 mtn-30">
+            <div class="row mtn-30 footer-padding">
                 <!-- Footer Widget Start -->
                 <div class="col-md-12 col-sm-6 col-12 mt-30">
                     <div class="footer-widget d-flex justify-content-between">
